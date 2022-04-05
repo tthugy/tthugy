@@ -7,7 +7,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tthugy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Php](https://img.shields.io/badge/-Php-3855a3?style=for-the-badge&logo=php&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-00599c?style=for-the-badge&logo=react&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-JavaScript-007acc?style=for-the-badge&logo=javascript&logoColor=fff)
 
