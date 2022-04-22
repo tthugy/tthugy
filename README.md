@@ -8,6 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tthugy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![React](https://img.shields.io/badge/-React-00599c?style=for-the-badge&logo=react&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-JavaScript-007acc?style=for-the-badge&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=fff)
 
-wonseok choi
+
+Wonseok Choi 
