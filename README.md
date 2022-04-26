@@ -11,4 +11,4 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=fff)
 
 
-Wonseok Choi 
+Wonseok Choi.
