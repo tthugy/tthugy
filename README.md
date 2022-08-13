@@ -10,6 +10,6 @@
 
 
 
-## 🚀Frontend Engineer
+## 🚀 Frontend Engineer
 
  `# React` `# Next.js` `# Javascript`  `# Axios` `# Zustand`
