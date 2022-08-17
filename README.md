@@ -12,4 +12,4 @@
 
 ## 🚀 Frontend Engineer
 
- `# React` `# Next.js` `# Javascript`  `# Axios` `# Zustand`
+ `# React` `# Next.js` `# Javascript`  `# Axios`
