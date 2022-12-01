@@ -11,4 +11,4 @@
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=tthugy&show_icons=true&theme=dracula)](https://github.com/tthugy)
 
-[![opgc](https://api.opgc.me/githubs/users/tthugy/tag/?theme=dracula)](https://opgc.me/#/users/tthugy)
+<!-- [![opgc](https://api.opgc.me/githubs/users/tthugy/tag/?theme=dracula)](https://opgc.me/#/users/tthugy) -->
